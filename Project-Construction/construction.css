@@ -12,6 +12,32 @@ header{
     flex-shrink: 0;
 }
 
+.news{
+    height:500px;
+    width: 1440px;
+    background-color: blueviolet;
+}
+.Architects-office{
+    height:520px;
+    width: 1440px;
+    background-color: red;
+}
+.Equipment-rental{
+    height:550px;
+    width: 1440px;
+    background-color: gold;
+}
+.production{
+    height: 800px;
+    width: 1440px;
+    background: greenyellow;
+}
+footer{
+    width: 1440px;
+    height: 673px;
+    background-color: #F15C3E;
+}
+
 
 
 

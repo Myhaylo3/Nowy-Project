@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+header{
+    width: 1440px;
+    height: 50px;
+    background: #F15C3E;
+}
+.general-photo{
+    width: 1440px;
+    height: 885px;
+    flex-shrink: 0;
+}
+
+
+
+
